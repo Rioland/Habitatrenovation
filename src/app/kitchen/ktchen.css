@@ -1,0 +1,58 @@
+.ket .container {
+  max-width: 1350px; /* Adjust to fit your design */
+}
+.ket .card-img-top {
+  width: 100%;
+  height: 250px; /* Set a fixed height for consistent image sizes */
+}
+
+.ket .flex-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 15px; /*Add space between images */
+}
+.ket .results-info {
+  margin-bottom: 1rem; /* Space below the results info */
+}
+.ket .col-md-8 > li {
+  list-style-type: none;
+}
+.ket .container my-4,
+h1,
+h3 {
+  font-weight: 900;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.ket .below {
+  font-size: x-small;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ket .col-md-4 bg-white,
+label {
+  font-size: small;
+}
+.ket .col-md-4 bg-white,
+h5 {
+  font-size: small;
+}
+.ket .col-md-4 mb-4,
+p {
+  font-size: small;
+  font-weight: 600;
+}
+.ket .mb-3,
+h6 {
+  text-align: center;
+}
+.ket .col-md-4 bg-white,
+h5,
+label {
+  font-weight: 600;
+}
+.ket .okay {
+  display: inline;
+  display: flex;
+  justify-content: space-between;
+  padding-inline-end: 30px;
+}

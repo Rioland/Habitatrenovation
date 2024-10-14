@@ -1,0 +1,48 @@
+.flooring .container {
+      max-width: 1350px; /* Adjust to fit your design */
+  }
+  .flooring .card-img-top {
+      width: 100%;
+      height: 200px; /* Set a fixed height for consistent image sizes */
+      object-fit: cover; /* Ensure images cover the area without distortion */
+  }
+  
+  .flooring .flex-container {
+      display: flex;
+      justify-content: flex-start;
+      gap: 15px; /* Optional: Add space between images */
+  }
+  .flooring .results-info {
+      margin-bottom: 1rem; /* Space below the results info */
+  }
+  .flooring .col-md-8 >li{
+      list-style-type: none;
+
+  }
+  .flooring .container my-4 ,h1,h3{
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+  .flooring .below{
+    font-size:x-small;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .flooring .col-md-4 bg-white ,label{
+    font-size: small;
+  }
+  .flooring .col-md-4 bg-white ,h5{
+    font-size: small;
+  }
+  .flooring .col-md-4 mb-4 ,p{
+    font-size: small;
+    font-weight: 600;
+  }
+  .flooring .mb-3 ,h6{
+    text-align: center;
+  }
+  .flooring .col-md-4 bg-white ,h5 ,label{
+    font-weight: 600;
+  }

@@ -1,0 +1,63 @@
+ a {
+      text-decoration: none;
+      color: rgb(77, 75, 75);
+      
+  }
+  a:hover{
+      color: gray;
+  }
+  /* .trim{
+    font-size: 40px;
+      font-weight: 700;
+      margin: 50px;
+      color: rgb(87, 85, 85);
+  } */
+  .trim .shop{
+      font-size: 15px;
+      font-weight: 500;
+      color: rgb(87, 85, 85);
+      margin: 50px;
+  }
+  .trim label{
+      color: gray;
+  }
+  .trim .ht{
+      color: gray;
+      margin: 50px;
+      font-size: small;
+  }
+  .trim .it{
+      font-weight: 500;
+      margin: 22px;
+      
+  }
+  
+  .trim ul{
+      display: none;
+  }
+  .trim .refine{
+      font-weight: 500;
+      margin-top: 15px;
+  }
+  .trim button{
+      color: gray;
+      border: gray;
+      border-radius: 5px;
+      margin: 5px;
+      padding: 3px;
+  }
+  .trim .head{
+      margin-left: 20px;
+  }
+  .trim .card shadow{
+    width: fit-content;
+    height: 50px;
+  }
+  .trim .pat{
+    font-size: 13px;
+    margin-top: 50px;
+  }
+  .trim .we{
+    max-height: 220px;
+  }
+  
