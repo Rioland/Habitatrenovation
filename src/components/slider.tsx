@@ -16,7 +16,7 @@ const Carousel = () => {
     <div className="carousel-item  ">
       <img src="/images/banner2.jpeg" height={400} className="d-block w-100" alt="..." />
     </div>
-    <div className="carousel-item active">
+    <div className="carousel-item ">
       <img src="/images/banner3.jpeg" height={400} className="d-block w-100" alt="..." />
     </div>
     {/* <div className="carousel-item active">
