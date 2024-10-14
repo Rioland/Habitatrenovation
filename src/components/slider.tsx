@@ -9,15 +9,15 @@ const Carousel = () => {
 
       
   <div className="carousel-inner">
-    <div className="carousel-item active">
+    <div className="carousel-item ">
    
-      <img src="/images/banner1.jpeg" height={600} className="d-block w-100" alt="..." />
+      <img src="/images/banner1.jpeg" height={400} className="d-block w-100" alt="..." />
     </div>
-    <div className="carousel-item active ">
-      <img src="/images/banner2.jpeg" height={600} className="d-block w-100" alt="..." />
+    <div className="carousel-item  ">
+      <img src="/images/banner2.jpeg" height={400} className="d-block w-100" alt="..." />
     </div>
     <div className="carousel-item active">
-      <img src="/images/banner3.jpeg" height={600} className="d-block w-100" alt="..." />
+      <img src="/images/banner3.jpeg" height={400} className="d-block w-100" alt="..." />
     </div>
     {/* <div className="carousel-item active">
       <img src="https://cdn11.bigcommerce.com/s-sryqni/images/stencil/original/carousel/460/getyourdoors-2000x538__87999.jpg?c=2" className="d-block w-100" alt="..." />
